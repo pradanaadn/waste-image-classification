@@ -1,0 +1,14 @@
+[project]
+name = "waste-image-classification-dataset"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12.11"
+dependencies = [
+    "kagglehub>=0.3.12",
+    "label-studio>=1.20.0",
+    "loguru>=0.7.3",
+    "pydantic>=2.11.7",
+    "pydantic-settings>=2.10.1",
+    "roboflow>=1.2.3",
+]
