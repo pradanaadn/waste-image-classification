@@ -204,3 +204,6 @@ __marimo__/
 
 datasets/*
 !datasets/.gitkeep
+
+selected/*
+!selected/.gitkeep
