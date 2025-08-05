@@ -1,0 +1,93 @@
+
+TARGET_DETAIL = {
+    "1000": "PET - Rongsok Campur",
+    "1001": "PET - PET Kotor",
+    "1002": "PET - PET KW 2",
+    "1003": "PET - PET Bersih Bening",
+    "1004": "PET - PET Bersih Biru Muda",
+    "1005": "PET - PET Bersih Campur",
+    "1006": "PET - PET Bersih Warna",
+    "2000": "Plastik Rigid - Putihan (HDPE & Jenis lainnya)",
+    "2001": "Plastik Rigid - Jerigen Bening Bersih",
+    "2002": "Plastik Rigid - Jerigen Warna / Bening Mangkak",
+    "2003": "Plastik Rigid - Tutup PET (HDPE)",
+    "2004": "Plastik Rigid - Tutup Galon (LDPE)",
+    "2005": "Plastik Rigid - Tutup Campur",
+    "2006": "Plastik Rigid - PP Emberan Campur",
+    "2007": "Plastik Rigid - PP Emberan Warna",
+    "2008": "Plastik Rigid - PP Emberan Hitam",
+    "2009": "Plastik Rigid - PC Galon UTUH / BIJI",
+    "2010": "Plastik Rigid - PC Galon PECAH / KG",
+    "3000": "Gelasan - Aqua Gelas Kotor",
+    "3001": "Gelasan - Aqua Gelas Bersih",
+    "3002": "Gelasan - Mountea / Sablon",
+    "4000": "Plastic Flexible - Plastik Bening (PE / PP)",
+    "4001": "Plastic Flexible - HD Kresek",
+    "4002": "Plastic Flexible - Kresek Campur",
+    "4003": "Plastic Flexible - LLDPE Pouch",
+    "4004": "Plastic Flexible - PP Sablon Lembaran",
+    "4005": "Plastic Flexible - Multi Layer",
+    "5000": "Plastic Kerasan - Kerasan / PS / ABS",
+    "5001": "Plastic Kerasan - PVC",
+    "6000": "Kertas - Buku Tulis / Buku Pelajaran",
+    "6001": "Kertas - HVS",
+    "6002": "Kertas - Kertas Buram / LKS / Warna",
+    "6003": "Kertas - Majalah",
+    "6004": "Kertas - Koran",
+    "6005": "Kertas - Duplek",
+    "6006": "Kertas - Kardus",
+    "6007": "Kertas - Kertas Campur",
+    "7000": "Logam - Besi Kaleng (Omplong)",
+    "7001": "Logam - Besi B (Tipis)",
+    "7002": "Logam - Besi A (Tebal & Padat)",
+    "7003": "Logam - Seng / Paku",
+    "7004": "Logam - Aluminium Kaleng / Tipis",
+    "7005": "Logam - Aluminium Tebal",
+    "7006": "Logam - Tembaga",
+    "7007": "Logam - Logam Campur",
+    "8000": "Kaca - Botol Bir Bintang Besar / Biji",
+    "8001": "Kaca - Botol Bir Bintang Kecil / Biji",
+    "8002": "Kaca - Botol Kaca Campur",
+    "9000": "Other - Styrofoam Bersih",
+    "9001": "Other - Tetra Pack",
+    "9002": "Other - Minyak Jelantah",
+    "9003": "Other - Tray Telur",
+    "9004": "Other - Yakult",
+    "9005": "Other - Kelapa Daksina",
+    "9006": "Other - Kulit Kabel",
+    "9007": "Other - Boncos",
+    "9008": "Other - Krat",
+}
+
+
+
+Need to QC
+
+1. Hard Plastic
+- https://universe.roboflow.com/demo-wdd86/od-3vc4m
+- https://universe.roboflow.com/construction-8c2ry/pipe-fittings
+2. Paper
+- https://universe.roboflow.com/sumeyye-mo9wj/paper-7qwal
+- https://universe.roboflow.com/rijah-yrbls/paper-d2z5n/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
+- https://universe.roboflow.com/trash-classification-mjez0/paper-1/browse?queryText=&pageSize=50&startingIndex=100&browseQuery=true
+3. PET
+- https://universe.roboflow.com/color-qltok/pet-bottle-9xet7/browse?queryText=-class%3APET+class%3A%22PET_bottle%22&pageSize=50&startingIndex=0&browseQuery=true
+- https://universe.roboflow.com/computer-vision-ewm5r/botol-pjepi/browse?queryText=-class%3AHDPE&pageSize=50&startingIndex=0&browseQuery=true
+
+More Data Variation
+4. Other
+- https://universe.roboflow.com/university-d2l2p/tetrapak-xczol/browse?queryText=&pageSize=50&startingIndex=50&browseQuery=true
+- https://universe.roboflow.com/project-space-12/egg-tray-count/browse?queryText=&pageSize=50&startingIndex=50&browseQuery=true
+5. Rigid Plastic:
+https://universe.roboflow.com/manuelmulattieri97/bottlecap-side/dataset/3
+https://universe.roboflow.com/computer-vision-ewm5r/botol-pjepi/browse?queryText=-class%3AHDPE&pageSize=50&startingIndex=0&browseQuery=true
+https://universe.roboflow.com/work3-dqzz5/bottle-cap-y6pzg/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
+
+
+6. Metal
+https://universe.roboflow.com/kabies-sickkk/svm-plastic-and-metal/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
+https://universe.roboflow.com/tgmt-wgnd8/metal-ipkdz
+
+7. Flexible Plastic
+https://universe.roboflow.com/talovtask/plastic-bag-tlche/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
+https://universe.roboflow.com/new-workspace-slpmv/bag-qe348/dataset/4

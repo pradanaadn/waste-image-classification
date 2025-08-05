@@ -7,6 +7,8 @@ LIST_DATASETS = [
     "sumn2u/garbage-classification-v2",
     "mostafaabla/garbage-classification",
     "vencerlanz09/plastic-paper-garbage-bag-synthetic-images",
+    "vencerlanz09/plastic-and-paper-cups-synthetic-image-dataset",
+    "joebeachcapital/realwaste",
 ]
 
 try:
